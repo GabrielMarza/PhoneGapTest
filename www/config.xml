@@ -1,21 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @GabrielMarza Sign out
-265
-3,471 6,891 phonegap/phonegap-start
- Code  Pull requests 6  Projects 0  Insights
-phonegap-start/www/config.xml
-1018dcb  on Aug 4, 2016
-@wildabeast wildabeast [config.xml] update plugins to current cordova-plugin format
-@mwbrooks @wildabeast @tavispa @hollyschinsky @VitaliiBlagodir @themightychris @aserdiuk @macdonst @hardeep @phoob @manuganji @ianosullivan @gregorypratt
-     
-138 lines (119 sloc)  8.47 KB
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
@@ -150,16 +132,3 @@ phonegap-start/www/config.xml
     </platform>
 
 </widget>
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Press h to open a hovercard with more details.
